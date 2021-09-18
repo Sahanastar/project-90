@@ -1,0 +1,44 @@
+body
+{ 
+    background-image: url(https://image.shutterstock.com/image-illustration/abstract-background-camera-flies-past-260nw-733632979.jpg);
+    background-size: 99%;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: 'Gluten', cursive;
+    margin-top: 50px;
+}
+#number_1 {
+    width: 1000px;
+    padding: 10px;
+}
+
+#number_2 {
+    width: 1000px;
+    padding: 10px;
+}
+
+#question_player
+{
+	background: white;
+	border-radius: 10px;
+	border: 10px solid #AA4465;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 80%;
+	float: none;
+	text-align: left;
+}
+
+#answer_player
+{
+	background: white;
+	border-radius: 10px;
+	border: 10px solid #AA4465;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 80%;
+    float: none;
+	text-align: left;
+}
